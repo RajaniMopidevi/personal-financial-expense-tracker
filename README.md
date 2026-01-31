@@ -42,9 +42,10 @@ A Python-based personal finance dashboard built using **Streamlit** and **Pandas
 
 1. Clone the repository:
 ```bash
+https://github.com/RajaniMopidevi/personal-financial-expense-tracker.git
+```
 
-
-3. Install dependencies:
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
@@ -79,9 +80,16 @@ personal-financial-expense-tracker/
 
 ---
 
+## What I Learned
+- Building an end-to-end data-driven application in Python
+- Using Pandas for data manipulation and aggregation
+- Creating interactive dashboards with Streamlit
+- Structuring and documenting a complete project
+  
+---
+
 ## Future Improvements
 - Add summary metrics (total spend, highest category, monthly average)
 - Add month-based filters
 - Export expense data as CSV
 - Enhance UI with improved styling and layout
->>>>>>> 0c07ad3 (Initial commit: Personal Financial Expense Tracker)
