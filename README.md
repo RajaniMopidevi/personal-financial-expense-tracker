@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# personal-financial-expense-tracker
-A Python-based personal financial expense tracker built with Streamlit to track, categorize, and visualize daily expenses.
-=======
 ## Personal Financial Expense Tracker 
 
 A Python-based personal finance dashboard built using **Streamlit** and **Pandas**. The application allows users to record daily expenses and analyze spending patterns through interactive charts.
@@ -45,8 +41,10 @@ A Python-based personal finance dashboard built using **Streamlit** and **Pandas
 ## How to Run Locally
 
 1. Clone the repository:
+```bash
 
-2. Install dependencies:
+
+3. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
